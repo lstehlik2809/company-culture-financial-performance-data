@@ -1,7 +1,7 @@
 # Company Culture and Financial Performance Dataset
 
 This repository contains the public sharing files for the company-level dataset
-used in the Company Culture and Financial Performance v2 analysis.
+used in the Company Culture and Financial Performance analysis.
 
 ## Files
 
